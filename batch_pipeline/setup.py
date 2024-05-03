@@ -21,7 +21,7 @@ setuptools.setup(
         "aws-cdk.aws-events==1.116.0",
         "aws-cdk.aws-iam==1.116.0",
         "aws-cdk.aws-sagemaker==1.116.0",
-        "sagemaker==2.54.0",
+        "sagemaker==2.218.0",
     ],
     python_requires=">=3.8",
     classifiers=[
